@@ -10,23 +10,25 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #f7f7f7;
+    background: #635c5c;
   }
  
   main {
     display: flex;
     flex-direction: column;
     gap: 5px;
+    color: rgb(0, 247, 255);
   }
  
   h1 {
     text-align: center;
+    color: aqua;
   }
  
   hr {
     font-weight: bold;
     height: 3px;
-    background: black;
+    background: rgb(206, 181, 181);
     margin-bottom: 10px;
   }
  
